@@ -1,10 +1,7 @@
 package javanotes;
 
-public class OneClass {
-
+public class FirstType {
 	public static void main(String[] args) {
 		
-		Object ob;
 	}
-
 }
